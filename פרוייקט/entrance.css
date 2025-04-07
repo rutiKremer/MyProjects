@@ -1,0 +1,72 @@
+#body {
+    border: 3px solid #535151;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-bottom: 5%;
+    border-radius: 30px;
+    margin-top: 5%;
+    color: #535151;
+}
+
+#logo {
+    width: 15%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    margin-left: 43%;
+}
+
+#line {
+    border-bottom: 0.5px solid black;
+}
+
+header {
+    background-image: url(./תמונה\ שקופה.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#entrance {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 60px;
+}
+
+form {
+    direction: rtl;
+    text-align: center;
+    margin-top: 45px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form input {
+    width: 55%;
+    border: none;
+    border-bottom: 2px solid black;
+    outline: none;
+}
+
+#firstName {
+    margin-left: 4%;
+}
+
+#send {
+    width: 80px;
+    font-size: 15px;
+    background-color: #535151;
+    color: white;
+    cursor: pointer;
+}
+
+button {
+    border-radius: 5px;
+    border: none;
+    padding: 9px;
+}
+
+#clean {
+    color: white;
+    background-color: #535151;
+    font-size: 15px;
+    cursor: pointer;
+}

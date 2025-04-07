@@ -1,0 +1,44 @@
+#spanImg {
+    margin-left: 60%;
+    margin-bottom: 5%;
+    margin-top: -27%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+#data {
+    display: block;
+    margin-right: 50%;
+    margin-top: 10%;
+    direction: rtl;
+}
+
+#line {
+    margin-top: 1%;
+}
+
+.container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -5%;
+}
+
+button {
+    background-color: rgb(29, 28, 28);
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(80, 78, 78);
+}
+
+#home {
+    text-decoration: none;
+    color: #535151;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

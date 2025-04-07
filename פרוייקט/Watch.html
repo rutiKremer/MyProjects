@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>תצוגה מלאה</title>
+    <link rel="stylesheet" href="./Watch.css">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./home.css">
+</head>
+<header>
+    <div id="logoAndSearch">
+        <a href="./cart.html"> <img src="./עגלה.png" id="man"></a>
+        <img src="./איש.png" id="man">
+        <h4 id="hello">שלום <span id="span"></span></h4>
+        <div id="search">
+            <button type="submit" id="searchButton">חפש</button>
+            <input type="text" name="search" placeholder="חיפוש" id="searchInput">
+            <img src="./זכוכית מגדלת.png" id="magnifyingGlass">
+        </div>
+        <img src="./לוגו.gif" id="logo">
+    </div><br>
+    <h6 id="line"></h6>
+    <div id="links">
+        <a href="./home.html" id="home">דף הבית</a>
+        <button id="watchForMan">שעוני גברים</button>
+        <button id="watchForWoman">שעוני נשים</button>
+        <a href="./information.html" id="home">מידע כללי</a>
+    </div>
+</header>
+
+<body>
+    <div class="container">
+        <div id="data">
+            <h1>שם: <span id="spanName"></span></h1>
+            <h2>מחיר: <span id="spanPrice"></span></h2>
+            <h3>קוד: <span id="spanCode"></span></h3>
+            <h3>תיאור מוצר:</h3>
+            <p>
+                מתאים ל :<span id="spanGender"> </span><br>
+                צבע רצועה :<span id="spanStrip"></span><br>
+                צבע לוח :<span id="boardColor"></span><br>
+                עמידות במים :<span id="waterResistance"></span><br>
+                שנות אחריות :<span id="yearsOfWarranty"></span><br>
+            </p><br><br>
+            <a href="./cart.html">
+                <button type="button" id="button2" style="text-decoration: none;" onclick="addToCart()">ADD TO
+                    CART</button>
+            </a>
+        </div>
+        <div id="imageContainer">
+            <img id="spanImg">
+        </div>
+    </div>
+    <div id="allWatch"></div>
+    <div class="jastWhenClick"></div>
+    <div id="futer">
+        <h2 id="mapTitle">מפת האתר שלנו</h2>
+        <p>חנות אינטרנטית בלבד</p>
+        <div id="linksFuter">
+            <a href="./home.html">כל השעונים</a>
+            <a href="./information.html">מידע כללי</a>
+        </div>
+        <div id="information">
+            <h3>שרות לקוחות</h3>
+            <p>0504104667
+                מענה בווטספ - הודעות בלבד
+                בימים : א,ב,ד,ה
+                בין השעות 12:00 -17:00
+                תקנון
+                מפת אתר
+            </p>
+        </div>
+    </div>
+</body>
+
+<script src="./jquery-3.2.1.js"></script>
+<script src="./app.js"></script>
+<script src="./home.js"></script>
+<script src="./jquery-3.2.1.js"></script>
+<script src="./Watch.js"></script>
+
+</html>

@@ -1,0 +1,69 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    direction: rtl;
+}
+
+#hello{
+    margin-right: 92%;
+}
+
+#spanImg{
+    width: 180px;
+    height: 170px;
+    padding-right: 4%;
+    margin-bottom: 0%;
+}
+
+#button{
+    text-decoration: none;
+    margin-right: 73%;
+    background-color: rgb(29, 28, 28);
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+#data{
+    padding-right: 30%;
+}
+
+#sum{
+    text-align: center;
+}
+
+.delete{
+    border: none;
+    background-color: white;
+    color: red;
+    font-size: larger;
+    /* margin-top: 3%; */
+    cursor: pointer;
+}
+
+/* css */
+.container {
+    width: 100%;   
+}
+
+.container div {
+    width: 60%;
+    margin-right: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    gap: 2%;
+}
+
+.container img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+}

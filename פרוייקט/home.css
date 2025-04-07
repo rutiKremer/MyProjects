@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+#popAp {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 35%;
+    width: 400px;
+    padding-bottom: 3%;
+    margin-top: 4%;
+    z-index: 100000;
+    position: fixed;
+    background-color: #716f6f;
+    border: 1px solid #535151;
+
+}
+
+#closeBtn:hover {
+    font-size: larger;
+    cursor: pointer;
+}
+
+#allWatch {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 4%;
+    margin-bottom: 4%;
+
+}
+
+#allWatch div {
+    text-align: center;
+    margin-bottom: 20px;
+    transition: transform 0.2s;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+#allWatch div a {
+    color: #535151;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#allWatch img {
+    width: 296px;
+    height: auto;
+}
+
+button {
+    background-color: #535151;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 140px;
+    cursor: pointer;
+}
+
+#allWatch button:hover {
+    background-color: #898787;
+    transform: scale(1.02);
+}

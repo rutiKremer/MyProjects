@@ -1,0 +1,127 @@
+
+#logoAndSearch {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 70px;
+}
+
+#line {
+    border-bottom: 0.5px solid black;
+}
+
+#hello {
+    margin-left: 5px;
+    white-space: nowrap;
+}
+
+#logo {
+    position: absolute;
+    left: 50%;
+    width: 15%;
+    transform: translateX(-50%);
+    margin-top: 4%;
+}
+
+#man {
+    width: 25px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+#search {
+    display: flex;
+    margin-top: 2%;
+    align-items: center;
+    margin-left: auto;
+}
+
+#searchButton {
+    border: none;
+    background-color: white;
+}
+
+#search input {
+    direction: rtl;
+    width: 100%;
+    height: 26px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+}
+
+input[type="text"] {
+    border: none;
+    border-bottom: 2px solid black;
+    outline: none;
+}
+
+#magnifyingGlass {
+    margin-left: 2%;
+}
+
+#links {
+    direction: rtl;
+    margin-right: 10%;
+}
+
+#home {
+    text-decoration: none;
+    color: #535151;
+    font-size: larger;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+#links button {
+    border: none;
+    background-color: white;
+    color: #535151;
+    font-size: larger;
+    padding: 1%;
+}
+
+#watchForMan:hover {
+    text-decoration: underline;
+}
+
+#watchForWoman:hover {
+    text-decoration: underline;
+}
+
+#home:hover {
+    text-decoration: underline;
+}
+
+#Advertising {
+    width: 100%;
+    margin-top: 14px;
+    position: relative;
+}
+
+
+#futer {
+    background-image: url(./תמונה\ שקופה\ 2.png);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#linksFuter a {
+    padding: 2%;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+#linksFuter {
+    padding-bottom: 1%;
+}
+
+#information {
+    padding-bottom: 2%;
+}

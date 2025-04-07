@@ -1,0 +1,23 @@
+.img1{
+    margin-left: 47%;
+    margin-top: 3%;
+    width: 450px;
+}
+
+.img2{
+    width: 830px;
+    margin-left: 23%;
+}
+
+.img3{
+    width: 870px;
+    margin-left: 20%;
+    margin-bottom: 3%;
+}
+
+#home {
+    text-decoration: none;
+    color: #535151;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
