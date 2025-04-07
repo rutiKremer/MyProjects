@@ -1,0 +1,249 @@
+04/04/2025 00:39:27	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 00:40:07	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 00:47:35	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 00:50:07	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 00:50:17	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:50:17	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:51:59	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 00:52:05	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:52:05	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:52:05	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 00:52:05	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:52:05	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:53:54	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 00:55:18	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:55:27	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:56:55	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 00:57:05	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:57:05	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:58:38	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 00:58:43	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:58:43	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:58:43	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 00:58:43	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:58:43	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:59:46	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 00:59:50	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:59:50	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:59:50	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 00:59:50	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:59:50	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:59:57	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:59:57	Dal.ProductImplementation	Read	End - read product
+04/04/2025 00:59:57	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 00:59:57	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 00:59:57	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:01:06	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:01:10	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:01:10	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:01:10	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:01:10	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:01:10	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:03:31	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:03:36	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:03:36	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:03:36	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:03:36	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:03:36	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:07:00	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:07:04	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:07:04	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:07:04	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:07:04	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:07:04	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:07:17	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:07:17	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:07:17	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:07:17	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:07:17	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:07:22	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:07:22	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:07:22	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:07:22	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:07:22	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:08:11	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:08:35	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:08:35	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:08:35	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:08:35	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:08:35	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:09:34	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:09:46	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:09:46	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:09:46	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:09:46	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:09:46	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:15:26	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:15:32	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:15:32	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:15:32	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:15:32	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:15:32	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:20:06	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:20:09	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:20:09	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:20:09	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:20:09	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:20:09	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:21:33	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:21:39	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:21:39	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:21:39	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:21:39	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:21:39	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:22:33	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:22:36	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:22:36	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:22:36	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:22:36	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:22:36	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:22:47	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:22:47	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:22:47	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:22:47	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:22:47	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:22:59	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:22:59	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:22:59	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:22:59	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:22:59	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:23:09	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:23:09	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:23:09	Dal.ProductImplementation	Update	Start - update product
+04/04/2025 01:23:09	Dal.ProductImplementation	Update	End - update product
+04/04/2025 01:24:27	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:24:45	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:24:45	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:24:56	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:24:56	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:24:56	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:24:56	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:24:56	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:24:59	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:24:59	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:24:59	Dal.ProductImplementation	Update	Start - update product
+04/04/2025 01:24:59	Dal.ProductImplementation	Update	End - update product
+04/04/2025 01:36:45	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:37:13	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:37:22	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:37:22	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:37:22	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:37:22	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:37:22	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:37:43	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:37:43	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:37:43	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:37:43	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:37:43	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:37:58	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:37:58	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:37:58	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:37:58	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:37:58	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:39:16	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:39:27	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:39:27	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:39:27	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:39:27	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:39:27	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:40:42	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:41:27	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:41:27	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:42:36	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:43:21	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:43:35	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:43:35	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:43:35	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:43:36	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:43:36	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:44:27	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:44:34	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:44:34	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:44:34	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:44:35	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:44:35	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:46:55	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:47:08	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:47:08	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:47:08	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:47:08	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:47:08	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:52:03	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:52:59	Dal.SaleImplementation	Create	Start - create sale
+04/04/2025 01:52:59	Dal.SaleImplementation	Create	End - create sale
+04/04/2025 01:53:33	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:54:39	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:54:39	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:54:39	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:54:39	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:54:39	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:55:25	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:56:14	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 01:56:14	Dal.ProductImplementation	Read	End - read product
+04/04/2025 01:57:25	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 01:58:01	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 01:58:06	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:02:55	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 02:03:25	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:03:25	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:04:44	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:08:23	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 02:08:36	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:08:36	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:08:36	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:08:36	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:08:36	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:10:30	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 02:10:40	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:10:40	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:10:40	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:10:40	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:10:40	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:11:43	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 02:11:51	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:11:51	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:11:51	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:11:51	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:11:51	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:12:07	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:12:07	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:12:07	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:12:07	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:12:07	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:12:57	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 02:13:07	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:13:07	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:13:07	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:13:07	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:13:07	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:13:34	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:13:34	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:13:34	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:13:34	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:13:34	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:21:01	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 02:22:50	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:22:50	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:25:32	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:28:44	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 02:28:54	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:28:54	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:28:54	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:28:54	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:28:54	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:32:07	Dal.ProductImplementation	ReadAll	ReadAll product
+04/04/2025 02:32:15	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:32:15	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:32:15	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:32:15	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:32:15	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:32:29	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:32:29	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:32:29	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:32:29	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:32:29	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:32:36	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:32:36	Dal.ProductImplementation	Read	End - read product
+04/04/2025 02:32:36	Dal.SaleImplementation	ReadAll	ReadAll sale
+04/04/2025 02:32:36	Dal.ProductImplementation	Read	Start - read product
+04/04/2025 02:32:36	Dal.ProductImplementation	Read	End - read product

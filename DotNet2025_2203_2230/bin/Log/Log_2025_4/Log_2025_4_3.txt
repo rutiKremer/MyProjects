@@ -1,0 +1,49 @@
+03/04/2025 00:21:04	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 00:21:09	Dal.ProductImplementation	Read	Start - read product
+03/04/2025 00:21:09	Dal.ProductImplementation	Read	End - read product
+03/04/2025 00:35:37	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 00:36:02	Dal.ProductImplementation	Create	Strat - create product
+03/04/2025 00:36:02	Dal.ProductImplementation	Create	End - create product
+03/04/2025 00:37:15	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 00:37:40	Dal.ProductImplementation	Update	Start - update product
+03/04/2025 00:37:40	Dal.ProductImplementation	Update	End - update product
+03/04/2025 00:39:30	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 00:40:27	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 00:41:12	Dal.ProductImplementation	Update	Start - update product
+03/04/2025 00:41:12	Dal.ProductImplementation	Update	End - update product
+03/04/2025 00:46:18	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 00:46:53	Dal.ProductImplementation	Update	Start - update product
+03/04/2025 00:46:53	Dal.ProductImplementation	Update	End - update product
+03/04/2025 00:48:14	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 00:48:43	Dal.ProductImplementation	Update	Start - update product
+03/04/2025 00:48:43	Dal.ProductImplementation	Update	End - update product
+03/04/2025 00:49:52	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 00:55:22	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 00:55:56	Dal.ProductImplementation	Update	Start - update product
+03/04/2025 00:55:56	Dal.ProductImplementation	Update	End - update product
+03/04/2025 01:06:22	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:08:12	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:11:37	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:13:01	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:17:34	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:17:54	Dal.ProductImplementation	Update	Start - update product
+03/04/2025 01:17:54	Dal.ProductImplementation	Update	End - update product
+03/04/2025 01:20:49	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:21:10	Dal.ProductImplementation	Update	Start - update product
+03/04/2025 01:21:10	Dal.ProductImplementation	Update	End - update product
+03/04/2025 01:21:54	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:22:22	Dal.ProductImplementation	Update	Start - update product
+03/04/2025 01:22:22	Dal.ProductImplementation	Update	End - update product
+03/04/2025 01:54:03	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:56:09	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:57:04	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:57:41	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:59:49	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 01:59:49	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 02:01:23	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 02:01:23	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 02:04:18	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 02:04:53	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 23:22:31	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 23:29:03	Dal.ProductImplementation	ReadAll	ReadAll product
+03/04/2025 23:32:53	Dal.ProductImplementation	ReadAll	ReadAll product

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer>
+  <Customer>
+    <IdentityCard>327865431</IdentityCard>
+    <NameCustomer>אבי</NameCustomer>
+    <Address>בני ברק</Address>
+    <Phone>0876543356</Phone>
+  </Customer>
+  <Customer>
+    <IdentityCard>357865432</IdentityCard>
+    <NameCustomer>שושי</NameCustomer>
+    <Address>ירושלים</Address>
+    <Phone>089750439</Phone>
+  </Customer>
+  <Customer>
+    <IdentityCard>546778877</IdentityCard>
+    <NameCustomer>אלי</NameCustomer>
+    <Address>בני ברק</Address>
+    <Phone>089740439</Phone>
+  </Customer>
+  <Customer>
+    <IdentityCard>567445532</IdentityCard>
+    <NameCustomer>יוסף</NameCustomer>
+    <Address>ירושלים</Address>
+    <Phone>0986754332</Phone>
+  </Customer>
+  <Customer>
+    <IdentityCard>34567890</IdentityCard>
+    <NameCustomer>אלחנן</NameCustomer>
+    <Address>ירושלים</Address>
+    <Phone>098765432</Phone>
+  </Customer>
+  <Customer>
+    <IdentityCard>567777654</IdentityCard>
+    <NameCustomer>משה</NameCustomer>
+    <Address>חיפה</Address>
+    <Phone>0765478999</Phone>
+  </Customer>
+  <Customer>
+    <IdentityCard>567483354</IdentityCard>
+    <NameCustomer>ברכה</NameCustomer>
+    <Address>אור החיים 8</Address>
+    <Phone>0655754566</Phone>
+  </Customer>
+  <Customer>
+    <IdentityCard>765432</IdentityCard>
+    <NameCustomer>חיים</NameCustomer>
+    <Address>רמבם </Address>
+    <Phone>009876543</Phone>
+  </Customer>
+</ArrayOfCustomer>

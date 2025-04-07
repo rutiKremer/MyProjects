@@ -1,0 +1,56 @@
+﻿using System.IO;
+using System.Security.Cryptography.X509Certificates;
+
+namespace Tools;
+
+public static class LogManager
+{
+    //לא עובד
+    private static readonly string logDirPath = "Log";
+
+    public static string getTodayDirName()
+    {
+        string filePath = @$"{logDirPath}\Log_{DateTime.Now.Year}_{DateTime.Now.Month}";
+        if (!File.Exists(filePath))
+            File.Create(filePath).Close();
+        return filePath;
+    }
+
+    public static string getTodayFileName()
+    {
+        string filePath = @$"{logDirPath}\Log_{DateTime.Now.Year}_{DateTime.Now.Month}_{DateTime.Now.Day}.txt";
+        if (!File.Exists(filePath))
+            File.Create(filePath).Close();
+        return filePath;
+    }
+
+    public static void writeToLog(string pjName,string nameFunc, string msg)
+    {
+        string filePath = $"{DateTime.Now}\t{pjName}.{nameFunc}:\t{msg}";
+         if(!File.Exists(filePath))
+             File.Create(filePath).Close();
+        using (StreamWriter sw = new StreamWriter(filePath))
+        {
+            sw.WriteLine(msg);
+        }
+    }
+
+    public static void cleanLogDir()
+    {
+        DirectoryInfo dir = new DirectoryInfo(logDirPath);
+        DirectoryInfo[] directoriesInfo = dir.GetDirectories();
+        DateTime dt;
+        foreach (DirectoryInfo item in directoriesInfo)
+        {
+           dt = item.CreationTime;
+            if ((DateTime.Now.Year-1 == dt.Year && (DateTime.Now.Month!=1 ||
+               DateTime.Now.Month != 2)) || (DateTime.Now.Year > dt.Year))
+            {
+                if(DateTime.Now.Month - 2 > dt.Month)
+                    item.Delete();
+            }
+        }
+       
+    }
+
+}

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale>
+  <Sale>
+    <Id>1456</Id>
+    <IdProduct>3459</IdProduct>
+    <AmountForSale>32</AmountForSale>
+    <IncludingPriceInSale>21</IncludingPriceInSale>
+    <IsTheSaleForEverybody>true</IsTheSaleForEverybody>
+    <DateBeginSale>2022-03-04T15:53:06</DateBeginSale>
+    <DateEndSale>2027-03-27T15:53:06.9698383+02:00</DateEndSale>
+  </Sale>
+  <Sale>
+    <Id>1456</Id>
+    <IdProduct>3458</IdProduct>
+    <AmountForSale>6</AmountForSale>
+    <IncludingPriceInSale>67.9</IncludingPriceInSale>
+    <IsTheSaleForEverybody>true</IsTheSaleForEverybody>
+    <DateBeginSale>2021-09-12T00:00:00</DateBeginSale>
+    <DateEndSale>2029-09-12T00:00:00</DateEndSale>
+  </Sale>
+  <Sale>
+    <Id>1456</Id>
+    <IdProduct>3457</IdProduct>
+    <AmountForSale>1</AmountForSale>
+    <IncludingPriceInSale>10</IncludingPriceInSale>
+    <IsTheSaleForEverybody>true</IsTheSaleForEverybody>
+    <DateBeginSale>2025-03-03T15:19:50</DateBeginSale>
+    <DateEndSale>2029-03-27T15:19:50.1656117+02:00</DateEndSale>
+  </Sale>
+  <Sale>
+    <Id>1457</Id>
+    <IdProduct>3460</IdProduct>
+    <AmountForSale>2</AmountForSale>
+    <IncludingPriceInSale>31</IncludingPriceInSale>
+    <IsTheSaleForEverybody>false</IsTheSaleForEverybody>
+    <DateBeginSale>2022-04-04T01:52:31</DateBeginSale>
+    <DateEndSale>2027-04-30T01:52:31</DateEndSale>
+  </Sale>
+</ArrayOfSale>

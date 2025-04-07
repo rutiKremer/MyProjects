@@ -1,0 +1,51 @@
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.exe
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.deps.json
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.runtimeconfig.json
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.dll
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.pdb
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.Admin.resources
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.Form1.resources
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.LoginForAdmin.resources
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.csproj.GenerateResource.cache
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.AssemblyInfoInputs.cache
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.AssemblyInfo.cs
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.csproj.CoreCompileInputs.cache
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.dll
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\refint\UI.dll
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.pdb
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.genruntimeconfig.cache
+Z:\B\רותי קרמר\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\ref\UI.dll
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.exe
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.deps.json
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.runtimeconfig.json
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.dll
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\UI.pdb
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.Admin.resources
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.Customers.resources
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.Form1.resources
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.LoginForAdmin.resources
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.LoginForUsers.resources
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.Products.resources
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.Sales.resources
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.AssemblyInfo.cs
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.dll
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\refint\UI.dll
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.pdb
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.genruntimeconfig.cache
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\ref\UI.dll
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.AdminAddProduct.resources
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\BL.dll
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\DalFacade.dll
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\DalList.dll
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\Tools.dll
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\BL.pdb
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\DalFacade.pdb
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\DalList.pdb
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\bin\Debug\net6.0-windows\Tools.pdb
+C:\Users\user1\Desktop\יד\c#\פרוייקט\DotNet2025_2203_2230\UI\obj\Debug\net6.0-windows\UI.csproj.CopyComplete

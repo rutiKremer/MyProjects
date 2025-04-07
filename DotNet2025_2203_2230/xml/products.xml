@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct>
+  <Product>
+    <IdProduct>3450</IdProduct>
+    <NameProduct>מפה</NameProduct>
+    <Category>שולחן_ואירוח</Category>
+    <Price>66</Price>
+    <StockAmount>2</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3451</IdProduct>
+    <NameProduct>שמן לתינוק</NameProduct>
+    <Category>חדר_רחצה</Category>
+    <Price>31</Price>
+    <StockAmount>100</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3456</IdProduct>
+    <NameProduct>שולחן קפה</NameProduct>
+    <Category>דקורציה_ופנאי</Category>
+    <Price>100</Price>
+    <StockAmount>8</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3452</IdProduct>
+    <NameProduct>עציץ יפה</NameProduct>
+    <Category>שולחן_ואירוח</Category>
+    <Price>46</Price>
+    <StockAmount>6</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3453</IdProduct>
+    <NameProduct>שמיכה</NameProduct>
+    <Category>חדר_שינה</Category>
+    <Price>51.3</Price>
+    <StockAmount>33</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3454</IdProduct>
+    <NameProduct>כוסות</NameProduct>
+    <Category>מטבח</Category>
+    <Price>100</Price>
+    <StockAmount>1</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3455</IdProduct>
+    <NameProduct>צלחות</NameProduct>
+    <Category>שולחן_ואירוח</Category>
+    <Price>73</Price>
+    <StockAmount>5</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3456</IdProduct>
+    <NameProduct>מיטה</NameProduct>
+    <Category>חדר_שינה</Category>
+    <Price>35</Price>
+    <StockAmount>4</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3457</IdProduct>
+    <NameProduct>קערה</NameProduct>
+    <Category>מטבח</Category>
+    <Price>10</Price>
+    <StockAmount>3333</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3458</IdProduct>
+    <NameProduct>סיר בישול</NameProduct>
+    <Category>מטבח</Category>
+    <Price>60</Price>
+    <StockAmount>312</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3459</IdProduct>
+    <NameProduct>מלחיה</NameProduct>
+    <Category>מטבח</Category>
+    <Price>8</Price>
+    <StockAmount>5</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3460</IdProduct>
+    <NameProduct>קרש חיתוך</NameProduct>
+    <Category>מטבח</Category>
+    <Price>22</Price>
+    <StockAmount>41</StockAmount>
+  </Product>
+  <Product>
+    <IdProduct>3461</IdProduct>
+    <NameProduct>מרכך</NameProduct>
+    <Category>חדר_רחצה</Category>
+    <Price>12.4</Price>
+    <StockAmount>8</StockAmount>
+  </Product>
+</ArrayOfProduct>
