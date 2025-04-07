@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "Hash": "Hi1aLIuSvj6/JTosj+rVNwWEH4hyUdFZ0b+O7i5Y3Jc=",
+  "Source": "project",
+  "BasePath": "_content/project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "project\\wwwroot",
+      "Source": "project",
+      "ContentRoot": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\css\\site.css",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tiyfu8sokb",
+      "Integrity": "e+US31lou9Tpy/CTVL14er0BwiEu5tRoAO9KLhds9vI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\index.html",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "czu5fyieqm",
+      "Integrity": "GAPnt0bocIEtHRTik8TdCmpnq4CDDGp/zyA5MmV6cl8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\js\\login.js",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "js/login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gyooknl5iv",
+      "Integrity": "WHTYvQUlZuRb/KcL0HfXPYaS5k5h3vnszqigTVGY458=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\js\\site.js",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cv7a1zthxh",
+      "Integrity": "qJwOC8PEJpW4ociXTAB+Nyt331Vq29HnLfQwKsuhiJg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\js\\userList.js",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "js/userList#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rgo2ia8uod",
+      "Integrity": "pV2GITBYPJPrbzfF//kDYz558DXMifUJYkfrCelq674=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\userList.js"
+    },
+    {
+      "Identity": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\login.html",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ibl9ujsv0l",
+      "Integrity": "0qGaTI86h5a6XhHxuxqcGpUyXf1lrQDAF6n3UiiulGk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\userList.html",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "userList#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8q6lklr95a",
+      "Integrity": "sPJ8YZuPn7jAs3L/Ngu1oQMNtM74bc40bdr2PhejaG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userList.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+US31lou9Tpy/CTVL14er0BwiEu5tRoAO9KLhds9vI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 17:46:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+US31lou9Tpy/CTVL14er0BwiEu5tRoAO9KLhds9vI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.tiyfu8sokb.css",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+US31lou9Tpy/CTVL14er0BwiEu5tRoAO9KLhds9vI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 17:46:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tiyfu8sokb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+US31lou9Tpy/CTVL14er0BwiEu5tRoAO9KLhds9vI="
+        }
+      ]
+    },
+    {
+      "Route": "index.czu5fyieqm.html",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GAPnt0bocIEtHRTik8TdCmpnq4CDDGp/zyA5MmV6cl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 19:05:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "czu5fyieqm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GAPnt0bocIEtHRTik8TdCmpnq4CDDGp/zyA5MmV6cl8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GAPnt0bocIEtHRTik8TdCmpnq4CDDGp/zyA5MmV6cl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 19:05:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GAPnt0bocIEtHRTik8TdCmpnq4CDDGp/zyA5MmV6cl8="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.gyooknl5iv.js",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WHTYvQUlZuRb/KcL0HfXPYaS5k5h3vnszqigTVGY458=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 16:43:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gyooknl5iv"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WHTYvQUlZuRb/KcL0HfXPYaS5k5h3vnszqigTVGY458="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WHTYvQUlZuRb/KcL0HfXPYaS5k5h3vnszqigTVGY458=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 16:43:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WHTYvQUlZuRb/KcL0HfXPYaS5k5h3vnszqigTVGY458="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.cv7a1zthxh.js",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qJwOC8PEJpW4ociXTAB+Nyt331Vq29HnLfQwKsuhiJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 19:24:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cv7a1zthxh"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qJwOC8PEJpW4ociXTAB+Nyt331Vq29HnLfQwKsuhiJg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qJwOC8PEJpW4ociXTAB+Nyt331Vq29HnLfQwKsuhiJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 19:24:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qJwOC8PEJpW4ociXTAB+Nyt331Vq29HnLfQwKsuhiJg="
+        }
+      ]
+    },
+    {
+      "Route": "js/userList.js",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\js\\userList.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pV2GITBYPJPrbzfF//kDYz558DXMifUJYkfrCelq674=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 16:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pV2GITBYPJPrbzfF//kDYz558DXMifUJYkfrCelq674="
+        }
+      ]
+    },
+    {
+      "Route": "js/userList.rgo2ia8uod.js",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\js\\userList.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pV2GITBYPJPrbzfF//kDYz558DXMifUJYkfrCelq674=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 16:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgo2ia8uod"
+        },
+        {
+          "Name": "label",
+          "Value": "js/userList.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pV2GITBYPJPrbzfF//kDYz558DXMifUJYkfrCelq674="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0qGaTI86h5a6XhHxuxqcGpUyXf1lrQDAF6n3UiiulGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 17:28:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0qGaTI86h5a6XhHxuxqcGpUyXf1lrQDAF6n3UiiulGk="
+        }
+      ]
+    },
+    {
+      "Route": "login.ibl9ujsv0l.html",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0qGaTI86h5a6XhHxuxqcGpUyXf1lrQDAF6n3UiiulGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 17:28:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ibl9ujsv0l"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0qGaTI86h5a6XhHxuxqcGpUyXf1lrQDAF6n3UiiulGk="
+        }
+      ]
+    },
+    {
+      "Route": "userList.8q6lklr95a.html",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\userList.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sPJ8YZuPn7jAs3L/Ngu1oQMNtM74bc40bdr2PhejaG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 17:14:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8q6lklr95a"
+        },
+        {
+          "Name": "label",
+          "Value": "userList.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sPJ8YZuPn7jAs3L/Ngu1oQMNtM74bc40bdr2PhejaG8="
+        }
+      ]
+    },
+    {
+      "Route": "userList.html",
+      "AssetFile": "Z:\\B\\רותי קרמר\\Core\\project\\wwwroot\\userList.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sPJ8YZuPn7jAs3L/Ngu1oQMNtM74bc40bdr2PhejaG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 17:14:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sPJ8YZuPn7jAs3L/Ngu1oQMNtM74bc40bdr2PhejaG8="
+        }
+      ]
+    }
+  ]
+}
