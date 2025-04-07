@@ -1,0 +1,13 @@
+nav {
+  display: flex; /* משתמשים ב-Flexbox */
+  justify-content: center; /* מרכז את התוכן אופקית */
+  align-items: center; /* מרכז את התוכן אנכית */
+  margin: 0; /* הסר את ה-margin השלילי */
+  padding: 10px; /* הוסף padding אם יש צורך */
+}
+
+.menu {
+  color: darkolivegreen;
+  margin: 0 10px; /* רווחים צדדיים בלבד */
+  white-space: nowrap; /* מונע ירידת שורה */
+}
