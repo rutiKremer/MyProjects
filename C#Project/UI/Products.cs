@@ -27,6 +27,9 @@ namespace UI
             productList.DataSource = products.Select(p => p.NameProduct).ToList();
             productForUpdate.DataSource = products.Select(p => p.NameProduct).ToList();
             oneProduct.DataSource = products.Select(p => p.IdProduct).ToList();
+            filter.Items.Add("מוצרים שבמלאי");
+            filter.Items.Add("מוצרים שמחירם קטן מ40 שקלים");
+            //filter.Items.Add("מוצרים שקיימים עבורם מבצעים");
         }
 
         private void add_Click(object sender, EventArgs e)
@@ -112,18 +115,25 @@ namespace UI
             allProduct.DataSource = products.Select(p => p.ToStringProperty()).ToList();
         }
 
-        //private void findByName_Click(object sender, EventArgs e)
-        //{
-        //    allProduct.DataSource = null;
-        //    BO.Product p = _bl.Product.Read(findByName);
-        //    allProduct.DataSource = new List<string>() { p.ToStringProperty() };
-        //}
+        private void filterButton_Click(object sender, EventArgs e)
+        {
+            string fil = filter.Text;
+            if (fil.Equals("מוצרים שבמלאי"))
+                filterByExistProduct();
+            if (fil.Equals("מוצרים שמחירם קטן מ40 שקלים"))
+                filterByCheapProduct();   
+        }
 
-        //private bool findByName(BO.Product p)
-        //{
-        //    string nameP = name.Text;
-        //    return p.NameProduct.Equals(nameP);
-        //}
+        private void filterByExistProduct()
+        {
+            allProduct.DataSource = _bl.Product.ReadAll(p => p.StockAmount > 0).Select(p => p.ToStringProperty()).ToList();
+        }
+
+        private void filterByCheapProduct()
+        {
+            allProduct.DataSource = _bl.Product.ReadAll(p => p.Price < 40).Select(p => p.ToStringProperty()).ToList();
+        }
+
 
     }
 }

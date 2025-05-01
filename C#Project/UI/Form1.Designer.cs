@@ -29,26 +29,17 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            AdminEntry = new Button();
             UserEntry = new Button();
             pictureBox1 = new PictureBox();
+            AdminEntry = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
-            // AdminEntry
-            // 
-            AdminEntry.Location = new Point(507, 189);
-            AdminEntry.Margin = new Padding(3, 4, 3, 4);
-            AdminEntry.Name = "AdminEntry";
-            AdminEntry.Size = new Size(151, 92);
-            AdminEntry.TabIndex = 0;
-            AdminEntry.Text = "מנהל";
-            AdminEntry.UseVisualStyleBackColor = true;
-            AdminEntry.Click += AdminEntry_Click;
-            // 
             // UserEntry
             // 
-            UserEntry.Location = new Point(298, 189);
+            UserEntry.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point);
+            UserEntry.ForeColor = Color.Red;
+            UserEntry.Location = new Point(315, 189);
             UserEntry.Margin = new Padding(3, 4, 3, 4);
             UserEntry.Name = "UserEntry";
             UserEntry.Size = new Size(151, 92);
@@ -60,20 +51,32 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(342, 41);
+            pictureBox1.Location = new Point(344, 12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(274, 54);
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
+            // 
+            // AdminEntry
+            // 
+            AdminEntry.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point);
+            AdminEntry.ForeColor = Color.Red;
+            AdminEntry.Location = new Point(492, 189);
+            AdminEntry.Name = "AdminEntry";
+            AdminEntry.Size = new Size(151, 92);
+            AdminEntry.TabIndex = 2;
+            AdminEntry.Text = "מנהל";
+            AdminEntry.UseVisualStyleBackColor = true;
+            AdminEntry.Click += AdminEntry_Click_1;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(914, 600);
+            Controls.Add(AdminEntry);
             Controls.Add(pictureBox1);
             Controls.Add(UserEntry);
-            Controls.Add(AdminEntry);
             Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
@@ -82,9 +85,8 @@
         }
 
         #endregion
-
-        private Button AdminEntry;
         private Button UserEntry;
         private PictureBox pictureBox1;
+        private Button AdminEntry;
     }
 }

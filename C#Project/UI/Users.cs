@@ -37,9 +37,9 @@ public partial class Users : Form
         int amountFromProduct = (int)amountForOrder.Value;
         if (amountFromProduct != 0)
         {
+            BO.Product p = product.FirstOrDefault(p => p.NameProduct.Equals(pName))!;
             try
             {
-                BO.Product p = product.FirstOrDefault(p => p.NameProduct.Equals(pName))!;
                 saleInProducts = _bl.Order.AddProductToOrder(newOrder, p.IdProduct, amountFromProduct);
                 for (int i = 0; i < amountFromProduct; i++)
                     orderItem.Items.Add(pName);
@@ -48,7 +48,8 @@ public partial class Users : Form
             }
             catch
             {
-                MessageBox.Show("אין מספיק מהמוצר במלאי");
+
+                MessageBox.Show($"ממוצר זה נותרו רק {p.StockAmount} יחידות");
             }
         }
         else

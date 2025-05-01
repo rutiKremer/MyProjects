@@ -16,11 +16,13 @@ namespace UI
             IsTheSaleForEverybody.Items.Add("x");
             isForS.Items.Add("v");
             isForS.Items.Add("x");
-            //////////////////////////////////////
             idList.DataSource = sales.Select(s => s.Id).ToList();
             id.DataSource = sales.Select(s => s.Id).ToList();
             allSales.DataSource = sales.Select(s => s.ToStringProperty()).ToList();
             oneSale.DataSource = sales.Select(s => s.Id).ToList();
+            filter.Items.Add("מבצעים שעדיין בתוקף");
+            filter.Items.Add("מבצעים שהם לכלל הלקוחות");
+            filter.Items.Add("מבצעים שהכמות לקבלת המבצע גדולה מ-5");
         }
 
         private void add_Click(object sender, EventArgs e)
@@ -101,6 +103,32 @@ namespace UI
             BO.Sale s = _bl.Sale.Read(int.Parse(oneSale.Text))!;
             allSales.DataSource = null;
             allSales.DataSource = new List<string>() { s.ToStringProperty() }.ToList();
+        }
+
+        private void filterButton_Click(object sender, EventArgs e)
+        {
+            string fil = filter.Text;
+            if (fil.Equals("מבצעים שעדיין בתוקף"))
+                filterByStillExist();
+            if (fil.Equals("מבצעים שהם לכלל הלקוחות"))
+                filterByForAllCustomers();
+            if (fil.Equals("מבצעים שהכמות לקבלת המבצע גדולה מ-5"))
+                filterByAmountToGet();
+        }
+
+        public void filterByStillExist()
+        {
+            allSales.DataSource = _bl.Sale.ReadAll(s => s.DateEndSale <= DateTime.Now).Select(c => c.ToStringProperty()).ToList();
+        }
+
+        public void filterByForAllCustomers()
+        {
+            allSales.DataSource = _bl.Sale.ReadAll(s => s.IsTheSaleForEverybody).Select(c => c.ToStringProperty()).ToList();
+        }
+
+        public void filterByAmountToGet()
+        {
+            allSales.DataSource = _bl.Sale.ReadAll(s => s.AmountForSale > 5).Select(c => c.ToStringProperty()).ToList();
         }
     }
 }

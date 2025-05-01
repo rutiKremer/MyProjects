@@ -58,9 +58,10 @@
             label10 = new Label();
             update = new Label();
             tabPage4 = new TabPage();
-            name = new TextBox();
+            filterButton = new Button();
             allP = new Button();
             find = new Button();
+            filter = new ComboBox();
             oneProduct = new ComboBox();
             label13 = new Label();
             label11 = new Label();
@@ -382,9 +383,10 @@
             // 
             // tabPage4
             // 
-            tabPage4.Controls.Add(name);
+            tabPage4.Controls.Add(filterButton);
             tabPage4.Controls.Add(allP);
             tabPage4.Controls.Add(find);
+            tabPage4.Controls.Add(filter);
             tabPage4.Controls.Add(oneProduct);
             tabPage4.Controls.Add(label13);
             tabPage4.Controls.Add(label11);
@@ -396,16 +398,19 @@
             tabPage4.Text = "כל המוצרים";
             tabPage4.UseVisualStyleBackColor = true;
             // 
-            // name
+            // filterButton
             // 
-            name.Location = new Point(49, 26);
-            name.Name = "name";
-            name.Size = new Size(125, 27);
-            name.TabIndex = 22;
+            filterButton.Location = new Point(218, 48);
+            filterButton.Name = "filterButton";
+            filterButton.Size = new Size(94, 29);
+            filterButton.TabIndex = 22;
+            filterButton.Text = "סנן";
+            filterButton.UseVisualStyleBackColor = true;
+            filterButton.Click += filterButton_Click;
             // 
             // allP
             // 
-            allP.Location = new Point(710, 19);
+            allP.Location = new Point(383, 69);
             allP.Name = "allP";
             allP.Size = new Size(124, 39);
             allP.TabIndex = 21;
@@ -415,7 +420,7 @@
             // 
             // find
             // 
-            find.Location = new Point(464, 61);
+            find.Location = new Point(588, 48);
             find.Name = "find";
             find.Size = new Size(94, 29);
             find.TabIndex = 20;
@@ -423,10 +428,19 @@
             find.UseVisualStyleBackColor = true;
             find.Click += find_Click;
             // 
+            // filter
+            // 
+            filter.FormattingEnabled = true;
+            filter.Location = new Point(93, 14);
+            filter.Name = "filter";
+            filter.RightToLeft = RightToLeft.No;
+            filter.Size = new Size(219, 28);
+            filter.TabIndex = 19;
+            // 
             // oneProduct
             // 
             oneProduct.FormattingEnabled = true;
-            oneProduct.Location = new Point(318, 27);
+            oneProduct.Location = new Point(442, 14);
             oneProduct.Name = "oneProduct";
             oneProduct.RightToLeft = RightToLeft.No;
             oneProduct.Size = new Size(199, 28);
@@ -436,18 +450,18 @@
             // 
             label13.AutoSize = true;
             label13.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
-            label13.Location = new Point(180, 26);
+            label13.Location = new Point(318, 15);
             label13.Name = "label13";
             label13.RightToLeft = RightToLeft.No;
-            label13.Size = new Size(119, 23);
+            label13.Size = new Size(77, 23);
             label13.TabIndex = 18;
-            label13.Text = ":חיפוש לפי שם";
+            label13.Text = ":סינון לפי";
             // 
             // label11
             // 
             label11.AutoSize = true;
             label11.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
-            label11.Location = new Point(523, 27);
+            label11.Location = new Point(647, 14);
             label11.Name = "label11";
             label11.RightToLeft = RightToLeft.No;
             label11.Size = new Size(176, 23);
@@ -533,13 +547,14 @@
         private Label label12;
         private Label label10;
         private Label update;
-        private Button find;
         private ComboBox oneProduct;
         private Label label11;
         private Button allP;
         private Label label13;
-        private TextBox name;
         private PictureBox pictureBox1;
+        private ComboBox filter;
+        private Button find;
+        private Button filterButton;
         //private Button findByName;
     }
 }

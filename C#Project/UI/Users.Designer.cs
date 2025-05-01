@@ -118,11 +118,11 @@
             // 
             // addToCart
             // 
-            addToCart.Location = new Point(676, 217);
+            addToCart.Location = new Point(655, 217);
             addToCart.Name = "addToCart";
-            addToCart.Size = new Size(113, 53);
+            addToCart.Size = new Size(134, 53);
             addToCart.TabIndex = 19;
-            addToCart.Text = "הוסף לסל";
+            addToCart.Text = "\U0001f6d2 הוסף לסל ";
             addToCart.UseVisualStyleBackColor = true;
             addToCart.Click += addToCart_Click;
             // 

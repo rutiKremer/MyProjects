@@ -7,16 +7,16 @@ namespace UI
             InitializeComponent();
         }
 
-        private void AdminEntry_Click(object sender, EventArgs e)
-        {
-            LoginForAdmin loginForAdmin = new LoginForAdmin();
-            loginForAdmin.ShowDialog();
-        }
-
         private void UserEntry_Click(object sender, EventArgs e)
         {
             LoginForUsers loginForUsers = new LoginForUsers();
             loginForUsers.ShowDialog();
+        }
+
+        private void AdminEntry_Click_1(object sender, EventArgs e)
+        {
+            LoginForAdmin loginForAdmin = new LoginForAdmin();
+            loginForAdmin.ShowDialog();
         }
     }
 }

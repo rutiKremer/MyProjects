@@ -65,12 +65,12 @@
             label14 = new Label();
             update = new Label();
             tabPage4 = new TabPage();
-            findByName = new Button();
-            name = new TextBox();
+            filterButton = new Button();
+            filter = new ComboBox();
             allS = new Button();
+            label16 = new Label();
             find = new Button();
             oneSale = new ComboBox();
-            label16 = new Label();
             label17 = new Label();
             allSales = new ListBox();
             label1 = new Label();
@@ -464,12 +464,12 @@
             // 
             // tabPage4
             // 
-            tabPage4.Controls.Add(findByName);
-            tabPage4.Controls.Add(name);
+            tabPage4.Controls.Add(filterButton);
+            tabPage4.Controls.Add(filter);
             tabPage4.Controls.Add(allS);
+            tabPage4.Controls.Add(label16);
             tabPage4.Controls.Add(find);
             tabPage4.Controls.Add(oneSale);
-            tabPage4.Controls.Add(label16);
             tabPage4.Controls.Add(label17);
             tabPage4.Controls.Add(allSales);
             tabPage4.Location = new Point(4, 29);
@@ -479,25 +479,28 @@
             tabPage4.Text = "כל המבצעים";
             tabPage4.UseVisualStyleBackColor = true;
             // 
-            // findByName
+            // filterButton
             // 
-            findByName.Location = new Point(96, 64);
-            findByName.Name = "findByName";
-            findByName.Size = new Size(94, 29);
-            findByName.TabIndex = 30;
-            findByName.Text = "חפש";
-            findByName.UseVisualStyleBackColor = true;
+            filterButton.Location = new Point(206, 55);
+            filterButton.Name = "filterButton";
+            filterButton.Size = new Size(94, 29);
+            filterButton.TabIndex = 28;
+            filterButton.Text = "סנן";
+            filterButton.UseVisualStyleBackColor = true;
+            filterButton.Click += filterButton_Click;
             // 
-            // name
+            // filter
             // 
-            name.Location = new Point(15, 29);
-            name.Name = "name";
-            name.Size = new Size(125, 27);
-            name.TabIndex = 29;
+            filter.FormattingEnabled = true;
+            filter.Location = new Point(44, 10);
+            filter.Name = "filter";
+            filter.RightToLeft = RightToLeft.No;
+            filter.Size = new Size(265, 28);
+            filter.TabIndex = 27;
             // 
             // allS
             // 
-            allS.Location = new Point(676, 22);
+            allS.Location = new Point(347, 89);
             allS.Name = "allS";
             allS.Size = new Size(124, 39);
             allS.TabIndex = 28;
@@ -505,9 +508,20 @@
             allS.UseVisualStyleBackColor = true;
             allS.Click += allS_Click;
             // 
+            // label16
+            // 
+            label16.AutoSize = true;
+            label16.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
+            label16.Location = new Point(315, 12);
+            label16.Name = "label16";
+            label16.RightToLeft = RightToLeft.No;
+            label16.Size = new Size(77, 23);
+            label16.TabIndex = 26;
+            label16.Text = ":סינון לפי";
+            // 
             // find
             // 
-            find.Location = new Point(430, 64);
+            find.Location = new Point(555, 45);
             find.Name = "find";
             find.Size = new Size(94, 29);
             find.TabIndex = 27;
@@ -518,28 +532,17 @@
             // oneSale
             // 
             oneSale.FormattingEnabled = true;
-            oneSale.Location = new Point(284, 30);
+            oneSale.Location = new Point(409, 11);
             oneSale.Name = "oneSale";
             oneSale.RightToLeft = RightToLeft.No;
             oneSale.Size = new Size(199, 28);
             oneSale.TabIndex = 26;
             // 
-            // label16
-            // 
-            label16.AutoSize = true;
-            label16.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
-            label16.Location = new Point(146, 29);
-            label16.Name = "label16";
-            label16.RightToLeft = RightToLeft.No;
-            label16.Size = new Size(119, 23);
-            label16.TabIndex = 24;
-            label16.Text = ":חיפוש לפי שם";
-            // 
             // label17
             // 
             label17.AutoSize = true;
             label17.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
-            label17.Location = new Point(489, 30);
+            label17.Location = new Point(614, 11);
             label17.Name = "label17";
             label17.RightToLeft = RightToLeft.No;
             label17.Size = new Size(181, 23);
@@ -643,13 +646,13 @@
         private Label update;
         private Label label15;
         private ComboBox id;
-        private Button findByName;
-        private TextBox name;
         private Button allS;
         private Button find;
         private ComboBox oneSale;
-        private Label label16;
         private Label label17;
         private PictureBox pictureBox1;
+        private Button filterButton;
+        private ComboBox filter;
+        private Label label16;
     }
 }

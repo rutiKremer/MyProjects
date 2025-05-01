@@ -16,6 +16,8 @@ namespace UI
             identityCus.DataSource = customers.Select(c => c.IdentityCard).ToList();
             allCustomers.DataSource = customers.Select(c => c.ToStringProperty()).ToList();
             oneCustomer.DataSource = customers.Select(c => c.IdentityCard).ToList();
+            filter.Items.Add("לקוחות שגרים בבני ברק");
+            filter.Items.Add("לקוחות שגרים בירושלים");
         }
 
         private void add_Click(object sender, EventArgs e)
@@ -91,5 +93,25 @@ namespace UI
             allCustomers.DataSource = null;
             allCustomers.DataSource = new List<string>() { c.ToStringProperty() }.ToList();
         }
+
+        private void filterButton_Click(object sender, EventArgs e)
+        {
+            string fil = filter.Text;
+            if (fil.Equals("לקוחות שגרים בבני ברק"))
+                filterByBneBrak();
+            if (fil.Equals("לקוחות שגרים בירושלים"))
+                filterByJeruzalem();
+        }
+
+        private void filterByBneBrak()
+        {
+            allCustomers.DataSource = _bl.Customer.ReadAll(c => c.Address.Equals("בני ברק")).Select(c => c.ToStringProperty()).ToList();
+        }
+
+        private void filterByJeruzalem()
+        {
+            allCustomers.DataSource = _bl.Customer.ReadAll(c => c.Address.Equals("ירושלים")).Select(c => c.ToStringProperty()).ToList();
+        }
+
     }
 }

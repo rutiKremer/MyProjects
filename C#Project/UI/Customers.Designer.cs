@@ -56,6 +56,9 @@
             label14 = new Label();
             update = new Label();
             tabPage4 = new TabPage();
+            filterButton = new Button();
+            filter = new ComboBox();
+            label13 = new Label();
             searchCus = new Button();
             allC = new Button();
             oneCustomer = new ComboBox();
@@ -345,6 +348,9 @@
             // 
             // tabPage4
             // 
+            tabPage4.Controls.Add(filterButton);
+            tabPage4.Controls.Add(filter);
+            tabPage4.Controls.Add(label13);
             tabPage4.Controls.Add(searchCus);
             tabPage4.Controls.Add(allC);
             tabPage4.Controls.Add(oneCustomer);
@@ -357,9 +363,39 @@
             tabPage4.Text = "כל הלקוחות";
             tabPage4.UseVisualStyleBackColor = true;
             // 
+            // filterButton
+            // 
+            filterButton.Location = new Point(199, 41);
+            filterButton.Name = "filterButton";
+            filterButton.Size = new Size(94, 29);
+            filterButton.TabIndex = 25;
+            filterButton.Text = "סנן";
+            filterButton.UseVisualStyleBackColor = true;
+            filterButton.Click += filterButton_Click;
+            // 
+            // filter
+            // 
+            filter.FormattingEnabled = true;
+            filter.Location = new Point(74, 7);
+            filter.Name = "filter";
+            filter.RightToLeft = RightToLeft.No;
+            filter.Size = new Size(219, 28);
+            filter.TabIndex = 24;
+            // 
+            // label13
+            // 
+            label13.AutoSize = true;
+            label13.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
+            label13.Location = new Point(299, 8);
+            label13.Name = "label13";
+            label13.RightToLeft = RightToLeft.No;
+            label13.Size = new Size(77, 23);
+            label13.TabIndex = 23;
+            label13.Text = ":סינון לפי";
+            // 
             // searchCus
             // 
-            searchCus.Location = new Point(447, 70);
+            searchCus.Location = new Point(576, 41);
             searchCus.Name = "searchCus";
             searchCus.Size = new Size(94, 29);
             searchCus.TabIndex = 19;
@@ -369,9 +405,9 @@
             // 
             // allC
             // 
-            allC.Location = new Point(684, 25);
+            allC.Location = new Point(360, 69);
             allC.Name = "allC";
-            allC.Size = new Size(94, 29);
+            allC.Size = new Size(102, 41);
             allC.TabIndex = 18;
             allC.Text = "כל הלקוחות";
             allC.UseVisualStyleBackColor = true;
@@ -380,7 +416,7 @@
             // oneCustomer
             // 
             oneCustomer.FormattingEnabled = true;
-            oneCustomer.Location = new Point(302, 26);
+            oneCustomer.Location = new Point(431, 7);
             oneCustomer.Name = "oneCustomer";
             oneCustomer.RightToLeft = RightToLeft.No;
             oneCustomer.Size = new Size(199, 28);
@@ -390,7 +426,7 @@
             // 
             label10.AutoSize = true;
             label10.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
-            label10.Location = new Point(507, 26);
+            label10.Location = new Point(645, 6);
             label10.Name = "label10";
             label10.RightToLeft = RightToLeft.No;
             label10.Size = new Size(157, 23);
@@ -475,5 +511,8 @@
         private Button allC;
         private Button searchCus;
         private PictureBox pictureBox1;
+        private Button filterButton;
+        private ComboBox filter;
+        private Label label13;
     }
 }
